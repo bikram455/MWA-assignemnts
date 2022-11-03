@@ -1,0 +1,12 @@
+{
+  "name": "problem-2",
+  "version": "1.0.0",
+  "description": "This is an assignment to create a http server in nodejs using default http module.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Bikram Samsohang",
+  "license": "ISC"
+}

@@ -1,0 +1,12 @@
+{
+  "name": "problem-1",
+  "version": "1.0.0",
+  "description": "Problem to get fibonacci of negative and positive numbers in non-blocking way.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Bikram Samsohang",
+  "license": "ISC"
+}
